@@ -2,6 +2,8 @@ ORIE 5741 Final Project : **Data-driven Henry Hub Natural Gas Price Forecasting*
 
 Anouar Brahimi (ab2697), Yahan Xu (yx584), Miao Zhang (mz528)
 
+presentation link: https://youtu.be/1mPOUrxqPpE
+
 **Project description:**
 
 Accurately forecasting future prices is extremely valuable given the volatile nature of US natural gas market and the sheer amount of factors that lead to its price formation. Therefore, this project aims to predict the future price of the most commonly quoted price for natural gas, the Louisiana-based Henry Hub price, which is futures-traded on NYMEX.
